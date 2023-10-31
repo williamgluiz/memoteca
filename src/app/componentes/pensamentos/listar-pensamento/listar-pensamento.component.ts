@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Pensamento } from '../pensamento';
 import { PensamentoService } from '../pensamento.service';
-import { Observable } from 'rxjs';
 import { Router } from '@angular/router';
 
 @Component({
